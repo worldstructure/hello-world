@@ -1,2 +1,2 @@
 # hello-world
-familiar
+newer to discover interesting things
